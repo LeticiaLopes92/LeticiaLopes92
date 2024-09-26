@@ -15,8 +15,8 @@
 
 <p align="center">
 <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" Width="100px">
-<img src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" Width="80px"
 <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" Width="50px"
+<img src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" Width="80px"
 </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------
