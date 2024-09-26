@@ -22,7 +22,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leticialopes92&show_icons=true&theme=radical)
 
-![Aline Antunes GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=leticialopes92&layout=compact&langs_count=7&theme=dracula)
+
 
 
 
